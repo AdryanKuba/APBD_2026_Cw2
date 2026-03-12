@@ -30,3 +30,7 @@ public static double CalculateMax(int[] values){
     }
     return max;
 }
+
+public static double CalculateMin(int[] values){
+    
+}
