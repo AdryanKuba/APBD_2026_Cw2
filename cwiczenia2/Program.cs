@@ -5,6 +5,7 @@ Console.WriteLine("Feature2")
 Console.WriteLine("Feature3")
 Console.WriteLine("Feature4")
 Console.WriteLine("Feature5")
+Console.WriteLine("Feature7")
 
 public static double CalculateAverage(int[] values){
 
